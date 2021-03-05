@@ -32,6 +32,9 @@ WebUI.mouseOver(findTestObject('Page_Avanti West Coast  Buy Train Tickets  No Bo
 WebUI.click(findTestObject('Page_Avanti West Coast  Buy Train Tickets  No Booking Fee/span_London'))
 
 WebUI.scrollToElement(findTestObject('Page_Avanti West Coast  Buy Train Tickets  No Booking Fee/a_Site Map'), 5)
+Date dt = new Date();
+String filename = dt.getTime() + ".png";
+WebUI.takeScreenshot((System.getProperty("user.dir") + "\\screenshots\\"+filename))
 
-WebUI.takeScreenshot('C:\\Users\\Administrator\\Desktop\\screenshots\\1st.png')
+//WebUI.takeScreenshot('C:\\Users\\Administrator\\Desktop\\screenshots\\1st.png')
 
