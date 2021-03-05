@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_London</name>
+   <tag></tag>
+   <elementGuidId>4977dfe3-12c9-4997-b944-d2c10b18ac11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sticky-wrapper']/div/div[2]/div/div/div/div[2]/div/div/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.nav-sub-content.open > ul.nav-sub-sub-item.sub-item > li.no-children > a > span.ellipsismenu-span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ellipsismenu-span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>London</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>London</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/div[@class=&quot;main-header&quot;]/div[@class=&quot;clearfix main-navigation mm-wrapper&quot;]/div[@class=&quot;nav-main-wrapper&quot;]/div[@id=&quot;sticky-wrapper&quot;]/div[@class=&quot;column&quot;]/div[@class=&quot;nav-main-content open&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;layout--2-10&quot;]/div[@class=&quot;column&quot;]/div[@class=&quot;item nav-sub-item layout--12 column--relative&quot;]/div[@class=&quot;menu-content column&quot;]/div[@class=&quot;nav-sub-content open&quot;]/ul[@class=&quot;nav-sub-sub-item sub-item&quot;]/li[@class=&quot;no-children&quot;]/a[1]/span[@class=&quot;ellipsismenu-span&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sticky-wrapper']/div/div[2]/div/div/div/div[2]/div/div/ul/li/a/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our communities'])[2]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manchester'])[1]/preceding::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birmingham'])[1]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li/a/span</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ticket Booking</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f57eedf4-6588-448e-b207-859efd6af137</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>046c89c2-79ca-4775-b7a8-4b22f786287d</id>
+      <masked>false</masked>
+      <name>DepartureStation</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c0c4191-bdf4-4453-ae24-ea3ebbeabebf</id>
+      <masked>false</masked>
+      <name>ArrivalStation</name>
+   </variable>
+</TestCaseEntity>
